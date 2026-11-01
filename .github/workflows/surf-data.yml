@@ -1,0 +1,36 @@
+# Weekly data relay for the Honolulu weekend surf report (surf-report).
+# Fetches NWS hourly wind + surf forecast text and force-pushes them to the `surf-data`
+# branch. It never touches main, so manual syncing of main is unaffected.
+# Runs Fri 5:41 am HST (15:41 UTC), ~50 min before the Claude scheduled task at 6:30.
+name: surf-data
+
+on:
+  schedule:
+    - cron: '41 15 * * 5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: surf-report
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch NWS data
+        run: python3 surf-report/fetch_surf_data.py "$RUNNER_TEMP/out"
+      - name: Push to surf-data branch
+        run: |
+          cd "$RUNNER_TEMP/out"
+          git init -q -b surf-data
+          git config user.name  "surf-data bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -q -m "surf data $(date -u +%FT%TZ)"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" surf-data
