@@ -1,0 +1,149 @@
+FXHW52 PHFO 101749 CCA
+SRDHFO
+
+Collaborative Nearshore Swell and Wind Forecast for Oahu
+NWS/NCEI Honolulu HI
+242 PM HST Mon Nov 9 2020
+
+This collaborative forecast will be updated Monday through Friday at
+300 PM when Pat Caldwell is available.
+
+FORECAST  SWL  DMNT DMNT  H    H     HGT          WIND   WIND   SPD
+DATE      HGT  DIR  PD    1/3  1/10  TEND   PROB  SPD    DIR    TEND
+
+1 PM        2  NNE   11     3     4  DOWN         17-21     E     UP
+11/09       7    E    9     5     7    UP                           
+                                                                    
+TUE         9    E    9     6     8  SAME   MED   17-21   ENE   SAME
+11/10       2   NW   13     2     4    UP   LOW                     
+            1  SSW   15     1     3    UP                           
+                                                                    
+WED        10  ENE    9     7     9    UP   MED   22-27   ENE     UP
+11/11       2  NNW   11     2     3  DOWN   LOW                     
+            1  SSW   14     1     3  SAME   LOW                     
+                                                                    
+THU        10  ENE    9     7     9  DOWN   LOW   19-23   ENE   DOWN
+11/12                                                               
+                                                                    
+FRI         8  ENE    8     5     7  DOWN   LOW   17-21   ENE   SAME
+11/13       2  NNW   17     4     6    UP   LOW                     
+            1  SSW   17     2     4    UP   LOW                     
+                                                                    
+SAT         7  ENE    7     4     5  DOWN   LOW   12-18   ENE   DOWN
+11/14       5  NNW   14     8    10  SAME   LOW                     
+            2  SSW   14     2     4  SAME   LOW                     
+                                                                    
+                                                                    
+LEGEND:
+SWL HGT    Open ocean swell height measured from trough to crest
+           in feet located 20 nautical miles offshore
+DMNT DIR   Dominant direction typically +/-10 degrees in 16 compass
+           points
+DMNT PD    Dominant period in seconds
+H1/3       Significant wave height in the surf zone
+H1/10      Average height in the highest one-tenth waves in the surf
+           zone
+HGT TEND   Height tendency of swell (valid values: UP/DOWN/SAME)
+PROB       Probability of occurrence (valid values: HIGH/MED/LOW)
+WIND SPD   Open water wind speed measured in knots located
+           20 nautical miles offshore
+WIND DIR   Wind direction in 16 compass points
+SPD TEND   Wind speed tendency (valid values: UP/DOWN/SAME)
+
+Surf heights will vary between different beaches and at the same
+beach at different break areas.
+
+DISCUSSION: SUMMARY.... 
+Rough trade wind swell through the work week topping the heights. 
+NNW surf due for the weekend.
+
+DETAILED...
+Mid Monday on eastern shores has declining short- to moderate-period
+surf from 020-060 degrees and rising, rough, short-period breakers
+from 60-90 degrees. The combination places surf above the east side
+average 11/09. Conditions are expected to remain rough with above
+average breakers on Tuesday favoring 60-90 degrees.
+
+A surface high pressure cell to 1045 mb was established 11/6 near
+45N, 150W to the NNE of Hawaii. The fetch over the 000-040 degree
+band beyond 1000 nm out began to weaken 11/7. Surf from this source
+kept active breakers for more northerly exposures Sunday into Monday
+morning, when moderate breakers held on.  By midday Monday 11/09,
+surf has dropped sharply as this source fades away and dominant
+shorter-period swell favors ENE to E.
+
+A large jet-level ridge and its associated strong surface high
+pressure fill the NE Pacific to the NE of Hawaii 11/09. ASCAT
+satellite since 11/8 shows a wide, long fetch of fresh to strong
+trades from near Hawaii E to NE out over 1000 nm. Models show the
+ridge and surface high moving west to a position north of Hawaii by
+late Tuesday, then holding strong into Thursday. This should make for
+an extended period for rough, above average breakers from trade wind
+swell out of 60-90 degrees.
+
+Models show a westward-moving, upper level trough immediately east of
+Hawaii 11/12 that would weaken the surface pressure gradient, thus
+the speed of the upstream trades. This upper-level feature is
+predicted in the vicinity 11/13-14. This pattern should lead to a
+downward trend 11/13-14 in local, short-period breakers from 60-90
+degrees.
+
+See the latest NWS State Forecast Discussion regarding the influence
+of this upper-level feature on the trend in local winds and skies
+late in the week.
+
+Mid Friday on northern shores has breakers from 20-40 degrees well
+below the seasonal average.  There has been a steep drop in size
+Monday morning aforementioned. Heights are expected to remain near
+low on Tuesday more from the NW.
+
+Gales east of the Kuril Islands 11/5 aimed swell toward Hawaii beyond
+2200 nm away, that got a minor extra push from near gales associated
+with a low pressure NW of Hawaii 11/7-8. The combined low swell
+should fill in locally overnight from 305-330 degrees 11/09. This
+small event should peak late Tuesday 11/10 and drop into Wednesday.
+
+Models show a stronger gale racing east along 50N reaching the Date 
+Line late Tuesday with seas to 25 feet. This source has better odds 
+for surf locally with the source closer. Models suggest long-period 
+forerunners from 310-325 degrees Friday PM with the event peaking 
+Saturday from 315-335 degrees, likely a notch under the fall season 
+average. It should be short-lived.
+
+Mid Friday on southern shores has breakers at a seasonal minimum. 
+Low surf is predicted to continue on Tuesday with a slight increase.
+
+Exposures to east wind swell on the south side should trend this
+period aforementioned.
+
+A fast-moving gale in the high latitudes S to SE of New Zealand
+11/2-3 could bring a low, long-period event building 11/10 and 
+dropping 11/11 from 180-200 degrees. A slightly broader and stronger 
+system SE of New Zealand 11/5-6 could do similar locally 11/13-14.
+
+Into the long range, peak days from the south at most background
+levels within 11/15-17.
+
+Models show east side trending down below average 11/15-16 from 60-
+90 degrees.
+
+Models show a jet-level trough and surface low in the Gulf of Alaska
+11/14-16, that could bring N to NE surf near the average roughly
+11/17-18. 
+
+Long range forecasts are subject to low confidence.  
+
+The next Collaborative Forecast will be updated Friday, November 13. 
+
+This forecast was produced through the collaborative efforts of
+NWS and NCEI. Please send suggestions to w-hfo.webmaster@noaa.gov
+or call the Warning Coordination Meteorologist at 808-973-5275.
+
+ADDITIONAL RESOURCES:
+See  https://www.weather.gov/hfo/marine
+
+$$
+
+NWS Forecaster and NCEI Pat Caldwell
+
+
