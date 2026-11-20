@@ -1,0 +1,313 @@
+FZHW52 PHFO 201852
+SRFHFO
+
+Surf Zone Forecast for Hawaii
+National Weather Service Honolulu HI
+852 AM HST Fri Nov 20 2026
+
+.DISCUSSION...
+Small surf will prevail along north- and west-facing shores for the
+next few days followed by much larger swells next week. A tiny north
+swell will be overlapped by a small north-northwest that will peak on
+Sunday and decline on Monday. A large northwest swell will build on
+Tuesday and will push surf along north- and west-facing shores well
+above the High Surf Advisory threshold into Wednesday. An extra large
+northwest swell is possible on Thanksgiving Day, though a front 
+likely moving down the island chain at the same time could bring 
+fresh northerly winds.
+
+Strong trade winds will maintain rough surf just below the High Surf
+Advisory level along east facing shores through Saturday. As trades
+decline, east shore surf will fall below seasonal average Sunday and
+will be very small through Wednesday. A small, long-period swell will
+bring a bump to south shore surf through Saturday, with mainly
+background level surf expected late Sunday through early next week.
+
+HIZ003-029>031-212000-
+Kauai-
+852 AM HST Fri Nov 20 2026
+
+__________________________________________________________________
+                       Today                     Saturday
+
+Shores                  Surf                       Surf     
+                     AM     PM                  AM     PM 
+__________________________________________________________________
+
+North Facing         2-4    2-4                 4-6    4-6 
+West Facing          1-3    1-3                 2-4    2-4 
+South Facing         2-4    2-4                 2-4    2-4 
+East Facing          5-7    6-8                 5-7    5-7 
+                                                                  
+
+.REST OF TODAY...
+Weather.....................Partly sunny. Numerous showers. 
+High Temperature............In the mid 80s. 
+Winds.......................East winds 15 to 20 mph.
+Tides...
+   Hanalei Bay..............High 1.4 feet 11:00 AM HST.
+                            Low 0.0 feet 05:10 PM HST.
+   Nawiliwili...............High 1.3 feet 12:01 PM HST. 
+Sunrise.....................6:52 AM HST. 
+Sunset......................5:54 PM HST.
+
+.TONIGHT...
+Weather.....................Mostly cloudy. Numerous showers. 
+Low Temperature.............In the lower 70s. 
+Winds.......................East winds around 15 mph.
+Tides...
+   Hanalei Bay..............High 2.0 feet 12:45 AM HST.
+   Nawiliwili...............Low 0.0 feet 06:32 PM HST.
+                            High 1.9 feet 01:46 AM HST.
+
+.SATURDAY...
+Weather.....................Partly sunny. Scattered showers. 
+High Temperature............In the mid 80s. 
+Winds.......................Northeast winds around 15 mph.
+Tides...
+   Hanalei Bay..............Low 0.6 feet 06:40 AM HST.
+                            High 1.2 feet 11:40 AM HST.
+                            Low -0.1 feet 05:37 PM HST.
+   Nawiliwili...............Low 0.7 feet 08:02 AM HST.
+                            High 1.1 feet 12:41 PM HST. 
+Sunrise.....................6:53 AM HST. 
+Sunset......................5:54 PM HST.
+
+$$
+
+HIZ006-007-009-032>035-212000-
+Oahu-
+852 AM HST Fri Nov 20 2026
+
+__________________________________________________________________
+                       Today                     Saturday
+
+Shores                  Surf                       Surf     
+                     AM     PM                  AM     PM 
+__________________________________________________________________
+
+North Facing         2-4    2-4                 3-5    3-5 
+West Facing          1-3    1-3                 1-3    1-3 
+South Facing         2-4    2-4                 2-4    2-4 
+East Facing          5-7    6-8                 6-8    6-8 
+                                                                  
+
+.REST OF TODAY...
+Weather.....................Partly sunny. Scattered showers. 
+High Temperature............In the lower 80s. 
+Winds.......................East winds around 20 mph.
+Tides...
+   Honolulu.................High 1.3 feet 12:29 PM HST.
+   Waianae..................High 1.2 feet 12:49 PM HST.
+   Haleiwa..................High 1.1 feet 11:27 AM HST.
+                            Low 0.0 feet 04:45 PM HST.
+   Mokuoloe.................High 1.7 feet 10:48 AM HST.
+                            Low 0.0 feet 05:45 PM HST. 
+Sunrise.....................6:45 AM HST. 
+Sunset......................5:49 PM HST.
+
+.TONIGHT...
+Weather.....................Mostly cloudy. Scattered showers. 
+Low Temperature.............In the lower 70s. 
+Winds.......................East winds around 20 mph.
+Tides...
+   Honolulu.................Low 0.0 feet 06:50 PM HST.
+                            High 1.9 feet 01:54 AM HST.
+   Waianae..................Low 0.0 feet 07:08 PM HST.
+                            High 1.8 feet 02:14 AM HST.
+   Haleiwa..................High 1.5 feet 12:52 AM HST.
+   Mokuoloe.................High 2.0 feet 12:53 AM HST.
+
+.SATURDAY...
+Weather.....................Partly sunny. Scattered showers. 
+High Temperature............In the lower 80s. 
+Winds.......................Northeast winds around 20 mph.
+Tides...
+   Honolulu.................Low 0.5 feet 08:18 AM HST.
+                            High 1.2 feet 01:13 PM HST.
+   Waianae..................Low 0.5 feet 08:36 AM HST.
+                            High 1.1 feet 01:33 PM HST.
+   Haleiwa..................Low 0.4 feet 06:13 AM HST.
+                            High 0.9 feet 12:11 PM HST.
+                            Low -0.1 feet 05:13 PM HST.
+   Mokuoloe.................Low 1.1 feet 06:31 AM HST.
+                            High 1.6 feet 11:15 AM HST. 
+Sunrise.....................6:46 AM HST. 
+Sunset......................5:49 PM HST.
+
+$$
+
+HIZ017-018-045>050-212000-
+Maui-
+852 AM HST Fri Nov 20 2026
+
+__________________________________________________________________
+                       Today                     Saturday
+
+Shores                  Surf                       Surf     
+                     AM     PM                  AM     PM 
+__________________________________________________________________
+
+North Facing         2-4    2-4                 3-5    3-5 
+West Facing          1-3    1-3                 1-3    1-3 
+South Facing         2-4    2-4                 2-4    2-4 
+East Facing          5-7    6-8                 6-8    6-8 
+                                                                  
+
+.REST OF TODAY...
+Weather.....................Partly sunny. Numerous showers. 
+High Temperature............In the upper 70s. 
+Winds.......................East winds around 15 mph.
+Tides...
+   Kahului..................High 1.8 feet 10:54 AM HST.
+                            Low 0.0 feet 05:40 PM HST. 
+Sunrise.....................6:38 AM HST. 
+Sunset......................5:44 PM HST.
+
+.TONIGHT...
+Weather.....................Mostly cloudy until 12 AM, then partly 
+                            cloudy. Scattered showers. 
+Low Temperature.............In the lower 70s. 
+Winds.......................East winds around 15 mph. 
+Tides...
+   Kahului..................High 2.1 feet 12:39 AM HST.
+
+.SATURDAY...
+Weather.....................Partly sunny. Scattered showers. 
+High Temperature............Around 80. 
+Winds.......................Northeast winds around 15 mph.
+Tides...
+   Kahului..................Low 1.0 feet 06:23 AM HST.
+                            High 1.7 feet 11:26 AM HST. 
+Sunrise.....................6:39 AM HST. 
+Sunset......................5:44 PM HST.
+
+$$
+
+HIZ052>054-212000-
+Big Island Windward and Southeast-
+852 AM HST Fri Nov 20 2026
+
+__________________________________________________________________
+                       Today                     Saturday
+
+Shores                  Surf                       Surf     
+                     AM     PM                  AM     PM 
+__________________________________________________________________
+
+North Facing         2-4    2-4                 2-4    2-4 
+East Facing          5-7    6-8                 6-8    6-8 
+South Facing         2-4    2-4                 2-4    2-4 
+                                                                  
+
+.REST OF TODAY...
+Weather.....................Mostly cloudy. Occasional showers. 
+High Temperature............Around 80. 
+Winds.......................Northeast winds 10 to 15 mph. 
+Tides...
+   Hilo Bay.................High 1.9 feet 11:35 AM HST. 
+Sunrise.....................6:31 AM HST. 
+Sunset......................5:40 PM HST.
+
+.TONIGHT...
+Weather.....................Mostly cloudy. Numerous showers. 
+Low Temperature.............In the upper 60s. 
+Winds.......................Northeast winds 10 to 15 mph.
+Tides...
+   Hilo Bay.................Low 0.0 feet 06:07 PM HST.
+                            High 2.4 feet 01:05 AM HST.
+
+.SATURDAY...
+Weather.....................Partly sunny. Numerous showers. 
+High Temperature............In the lower 80s. 
+Winds.......................Northeast winds around 10 mph.
+Tides...
+   Hilo Bay.................Low 0.9 feet 07:04 AM HST.
+                            High 1.8 feet 12:15 PM HST. 
+Sunrise.....................6:32 AM HST. 
+Sunset......................5:40 PM HST.
+
+$$
+
+HIZ023-026-051-212000-
+Big Island Leeward-
+852 AM HST Fri Nov 20 2026
+
+__________________________________________________________________
+                       Today                     Saturday
+
+Shores                  Surf                       Surf     
+                     AM     PM                  AM     PM 
+__________________________________________________________________
+
+West Facing          1-3    1-3                 1-3    1-3 
+South Facing         2-4    2-4                 2-4    2-4 
+                                                                  
+
+.REST OF TODAY...
+Weather.....................Mostly sunny. Scattered showers. 
+High Temperature............In the mid 80s. 
+Winds.......................Light and variable winds, becoming 
+                            southwest around 5 mph in the 
+                            afternoon.
+Tides...
+   Kona.....................High 1.5 feet 12:13 PM HST.
+   Kawaihae.................High 1.5 feet 12:28 PM HST. 
+Sunrise.....................6:35 AM HST. 
+Sunset......................5:44 PM HST.
+
+.TONIGHT...
+Weather.....................Partly cloudy. Scattered showers. 
+Low Temperature.............In the upper 60s. 
+Winds.......................Light and variable winds, becoming 
+                            north around 5 mph after midnight.
+Tides...
+   Kona.....................Low 0.0 feet 06:44 PM HST.
+                            High 1.9 feet 01:43 AM HST.
+   Kawaihae.................Low 0.0 feet 06:51 PM HST.
+                            High 2.1 feet 01:54 AM HST.
+
+.SATURDAY...
+Weather.....................Mostly sunny. Isolated showers. 
+High Temperature............In the mid 80s. 
+Winds.......................Light and variable winds, becoming west 
+                            around 5 mph in the afternoon.
+Tides...
+   Kona.....................Low 0.6 feet 07:41 AM HST.
+                            High 1.5 feet 12:53 PM HST.
+   Kawaihae.................Low 0.6 feet 08:18 AM HST.
+                            High 1.3 feet 01:16 PM HST. 
+Sunrise.....................6:36 AM HST. 
+Sunset......................5:44 PM HST.
+
+$$
+
+
+__________________________________________________________________
+
+Product Legend: 
+
+Surf:        Height of the surf from trough to crest (face value)
+             in feet.
+
+Tides:       Heights displayed are relative to the Mean Lower Low
+             Water (MLLW) datum in feet.
+
+Surf heights can vary significantly from beach to beach along a
+coastline. Surf larger than the upper end of the range provided in
+the forecast will occur periodically, sometimes up to a few hours
+apart. Expect to encounter rip currents in or near the surf zone,
+with rip current strength increasing with surf size. Swimmers are
+urged to exercise caution at all times and enter the water near a
+lifeguard.
+
+For the latest beach hazard and safety information at individual
+beaches in Hawaii refer to:
+
+https://hawaiibeachsafety.com
+
+__________________________________________________________________
+
+$$
+
+
